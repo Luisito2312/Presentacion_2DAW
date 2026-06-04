@@ -1,4 +1,9 @@
-# Mi Memoria de Prácticas: Desarrollo y Refactorización de Integraciones para WordPress (AutomatorWP & GamiPress)
+Desarrollo y Refactorización de Integraciones para WordPress (AutomatorWP & GamiPress)
+
+### 🔗 Vídeo de la Exposición
+* **Enlace al vídeo:** [🎥 Ver Exposición de Prácticas - Luis Godino Wallace]([https://enlace-al-video.com](https://youtu.be/zurQiLf8s9Q))
+
+---
 
 ¡Hola! En este repositorio he subido todo el trabajo de desarrollo, auditoría y refactorización de plugins que he llevado a cabo durante mi periodo de prácticas de Formación Profesional Dual en la empresa. 
 
@@ -21,10 +26,6 @@ A continuación os detallo la memoria de mis actividades, cómo me he organizado
 * **Mi Responsabilidad Principal:** 
   Me he encargado de realizar la auditoría técnica de plugins heredados (*legacy*), refactorizar su código siguiendo el estándar de calidad y arquitectura de la empresa (Singleton y modularidad), integrar APIs de terceros y erradicar la deuda técnica (código basura y malas prácticas).
 
-### 🔗 Vídeo de la Exposición
-* **Enlace al vídeo:** [🎥 Ver Exposición de Prácticas - Luis Godino Wallace]([https://enlace-al-video.com](https://youtu.be/zurQiLf8s9Q))
-
----
 
 ## 🛠️ 3. Resumen Técnico de los Plugins que he Refactorizado / Desarrollado
 
