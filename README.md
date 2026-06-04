@@ -22,7 +22,7 @@ A continuación os detallo la memoria de mis actividades, cómo me he organizado
   Me he encargado de realizar la auditoría técnica de plugins heredados (*legacy*), refactorizar su código siguiendo el estándar de calidad y arquitectura de la empresa (Singleton y modularidad), integrar APIs de terceros y erradicar la deuda técnica (código basura y malas prácticas).
 
 ### 🔗 Vídeo de la Exposición
-* **Enlace al vídeo:** [🎥 Ver Exposición de Prácticas - Luis Godino Wallace](https://enlace-al-video.com)
+* **Enlace al vídeo:** [🎥 Ver Exposición de Prácticas - Luis Godino Wallace]([https://enlace-al-video.com](https://youtu.be/zurQiLf8s9Q))
 
 ---
 
